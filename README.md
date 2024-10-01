@@ -49,7 +49,7 @@ Special attention has been given to supporting the **Arabic language**: * Object
     git clone https://github.com/your-username/object-detection.git cd object-detection
    ```
 2. **Install dependencies:**
- ```bash
+   ```bash
     pip install -r requirements.txt
    ```
 4. **Run the Application:**
@@ -63,6 +63,9 @@ Special attention has been given to supporting the **Arabic language**: * Object
 ## Hugging Face Space
 
 [**Object Detection on Hugging Face**](https://huggingface.co/spaces/RakanAlsheraiwi/ObjectDetection)
+
+## Video walking through the Python Notebook.
+[Click here to Watch the video](https://drive.google.com/file/d/1IkXMdy0wsMt87r0W9Ae1P7TLg-owXXZB/view?usp=sharing)
 
 
 
