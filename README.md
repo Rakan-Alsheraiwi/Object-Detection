@@ -24,9 +24,9 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 **YOLOv5** on Hugging Face.
 
 2. **Helsinki-NLP for Translation**:
-- **The translation model used is `Helsinki-NLP/opus-mt-en-ar`, a powerful neural machine translation model that supports **English-to-Arabic translation**.
-- **This model ensures that object labels are accessible for Arabic-speaking users.
-- **Helsinki\-NLP/opus\-mt\-en\-ar on Hugging Face.”
+- The translation model used is `Helsinki-NLP/opus-mt-en-ar`, a powerful neural machine translation model that supports **English-to-Arabic translation**.
+- This model ensures that object labels are accessible for Arabic-speaking users.
+- Helsinki\-NLP/opus\-mt\-en\-ar on Hugging Face.”
 
 ## Pipeline Explanation
 1. **Object Detection (YOLOv5)**: * The input image or video is fed into the **YOLOv5** model, which outputs bounding boxes, class labels, and confidence scores for detected objects.
