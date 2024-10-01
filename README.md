@@ -44,10 +44,18 @@ Special attention has been given to supporting the **Arabic language**: * Object
 
 ## Installation
 
-“Clone the repository:”
-“git clone https://github.com/your-username/object-detection.git cd object-detection”
-“* Install dependencies: bash نسخ الكود `pip install -r requirements.txt` * Run the application: bash نسخ الكود `python app.py`”
-
+1. **Clone the repository:** 
+   ```bash
+    git clone https://github.com/your-username/object-detection.git cd object-detection
+   ```
+2. **Install dependencies:**
+ ```bash
+    pip install -r requirements.txt
+   ```
+4. **Run the Application:**
+   ```bash
+   python main.py
+   ```
 ## Usage
 1. **For Image Detection**: Upload an image to detect objects with bounding boxes and object counts in both **English** and **Arabic**.
 2. **For Video Detection**: Upload a video to detect objects across frames and receive a processed video with object counts in **English** and **Arabic**.
