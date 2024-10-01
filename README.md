@@ -37,10 +37,10 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 ## Justification for Model and Pipeline Choices
 - **YOLOv5** is chosen for its speed, accuracy, and efficiency in both image and video object detection, making it suitable for real-time applications.
 - **Helsinki-NLP's translation model** was selected to provide seamless **English-to-Arabic translation**, crucial for supporting users in Arabic-speaking regions.”
-- **The use of **Gradio** allows for easy interaction with the models, offering an intuitive user interface that requires no programming knowledge to use.
+- **The use of Gradio** allows for easy interaction with the models, offering an intuitive user interface that requires no programming knowledge to use.
 
 ## Arabic Language Support
-Special attention has been given to supporting the **Arabic language**: * Object labels are automatically translated to **Arabic** using the `Helsinki-NLP/opus-mt-en-ar` translation model. This makes the project accessible for a wider audience, especially users from Arabic-speaking regions.
+Special attention has been given to supporting the **Arabic language**: Object labels are automatically translated to **Arabic** using the `Helsinki-NLP/opus-mt-en-ar` translation model. This makes the project accessible for a wider audience, especially users from Arabic-speaking regions.
 
 ## Installation
 
