@@ -14,10 +14,10 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 2. **Video Input**: The model returns: A processed video with bounding boxes around detected objects in each frame. * A table showing overall object counts across the entire video in both **English** and **Arabic**.”
 
 ## Model Choices
-1. **YOLOv5 for Object Detection**: 
+1. **YOLOv5** for Object Detection**: 
 - **YOLOv5** (**You Only Look Once**) is a fast and accurate deep learning model for real-time object detection.
-- ** We use the `yolov5s` model for this project, which balances speed and accuracy, making it suitable for processing both images and videos.
-* YOLOv5 on Hugging Face.”
+-  We use the `yolov5s` model for this project, which balances speed and accuracy, making it suitable for processing both images and videos.
+**YOLOv5** on Hugging Face.
 
 2. **Helsinki-NLP for Translation**:
 - **The translation model used is `Helsinki-NLP/opus-mt-en-ar`, a powerful neural machine translation model that supports **English-to-Arabic translation**.
