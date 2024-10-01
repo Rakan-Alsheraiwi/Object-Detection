@@ -36,7 +36,7 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 - **The use of **Gradio** allows for easy interaction with the models, offering an intuitive user interface that requires no programming knowledge to use.
 
 ## Arabic Language Support
-“Special attention has been given to supporting the **Arabic language**: * Object labels are automatically translated to **Arabic** using the `Helsinki-NLP/opus-mt-en-ar` translation model. * This makes the project accessible for a wider audience, especially users from Arabic-speaking regions.”
+Special attention has been given to supporting the **Arabic language**: * Object labels are automatically translated to **Arabic** using the `Helsinki-NLP/opus-mt-en-ar` translation model. This makes the project accessible for a wider audience, especially users from Arabic-speaking regions.
 
 ## Installation
 
@@ -46,8 +46,8 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 
 ## Usage
 1. **For Image Detection**: Upload an image to detect objects with bounding boxes and object counts in both **English** and **Arabic**.
-2. **For Video Detection**: Upload a video to detect objects across frames and receive a processed video with object counts in **English** and **Arabic**.”
-
+2. **For Video Detection**: Upload a video to detect objects across frames and receive a processed video with object counts in **English** and **Arabic**.
+   
 ## Hugging Face Space
 
 [**Object Detection on Hugging Face**](https://huggingface.co/spaces/RakanAlsheraiwi/ObjectDetection)
