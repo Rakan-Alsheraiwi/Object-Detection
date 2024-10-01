@@ -49,62 +49,8 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 2. **For Video Detection**: Upload a video to detect objects across frames and receive a processed video with object counts in **English** and **Arabic**.”
 
 ## Hugging Face Space
-The project is hosted on Hugging Face Spaces and can be accessed here:
 
-[**obj on Hugging Face**](h)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[**Object Detection on Hugging Face**](https://huggingface.co/spaces/RakanAlsheraiwi/ObjectDetection)
 
 
 
