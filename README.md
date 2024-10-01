@@ -10,8 +10,12 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 4. **Interactive Interface**: A user-friendly interface built using **Gradio** allows easy interaction with both image and video detection models.
 
 # Expected Outputs
-1. **Image Input**: The model returns: The original image with bounding boxes around detected objects. * A table showing object names and counts in both **English** and **Arabic**.
-2. **Video Input**: The model returns: A processed video with bounding boxes around detected objects in each frame. * A table showing overall object counts across the entire video in both **English** and **Arabic**.”
+1. **Image Input**:
+- The model returns: The original image with bounding boxes around detected objects.
+- A table showing object names and counts in both **English** and **Arabic**.
+4. **Video Input**:
+- The model returns: A processed video with bounding boxes around detected objects in each frame.
+- A table showing overall object counts across the entire video in both **English** and **Arabic**.
 
 ## Model Choices
 1. **YOLOv5** for Object Detection**: 
