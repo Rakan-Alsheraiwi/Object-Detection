@@ -29,10 +29,10 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 - Helsinki\-NLP/opus\-mt\-en\-ar on Hugging Face.”
 
 ## Pipeline Explanation
-1. **Object Detection (YOLOv5)**: * The input image or video is fed into the **YOLOv5** model, which outputs bounding boxes, class labels, and confidence scores for detected objects.
-2. **Bounding Box Drawing**: * Using **OpenCV** or **PIL**, bounding boxes are drawn around detected objects in the image or video frames.
-3. **Label Translation**: * Detected object labels are passed to the translation model, translating the English labels to Arabic.
-4. **Results Output**: * The modified image or video is displayed alongside a table of detected object counts in both **English** and **Arabic**.
+1. **Object Detection (YOLOv5)**: The input image or video is fed into the **YOLOv5** model, which outputs bounding boxes, class labels, and confidence scores for detected objects.
+2. **Bounding Box Drawing**:  Using **OpenCV** or **PIL**, bounding boxes are drawn around detected objects in the image or video frames.
+3. **Label Translation**:  Detected object labels are passed to the translation model, translating the English labels to Arabic.
+4. **Results Output**:  The modified image or video is displayed alongside a table of detected object counts in both **English** and **Arabic**.
 
 ## Justification for Model and Pipeline Choices
 - **YOLOv5** is chosen for its speed, accuracy, and efficiency in both image and video object detection, making it suitable for real-time applications.
