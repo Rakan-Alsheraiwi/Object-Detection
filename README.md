@@ -45,13 +45,13 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 “* Install dependencies: bash نسخ الكود `pip install -r requirements.txt` * Run the application: bash نسخ الكود `python app.py`”
 
 ## Usage
-1. **For Image Detection**: * Upload an image to detect objects with bounding boxes and object counts in both **English** and **Arabic**.
-2. **For Video Detection**: * Upload a video to detect objects across frames and receive a processed video with object counts in **English** and **Arabic**.”
+1. **For Image Detection**: Upload an image to detect objects with bounding boxes and object counts in both **English** and **Arabic**.
+2. **For Video Detection**: Upload a video to detect objects across frames and receive a processed video with object counts in **English** and **Arabic**.”
 
 ## Hugging Face Space
 The project is hosted on Hugging Face Spaces and can be accessed here:
 
-[**ArtVoice Tour on Hugging Face**](https://huggingface.co/spaces/Lubna25/ArtVoice_Tour)
+[**obj on Hugging Face**](h)
 
 
 
