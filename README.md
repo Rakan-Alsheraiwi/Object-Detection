@@ -65,7 +65,7 @@ Special attention has been given to supporting the **Arabic language**: * Object
 [**Object Detection on Hugging Face**](https://huggingface.co/spaces/RakanAlsheraiwi/ObjectDetection)
 
 ## Video walking through the Python Notebook.
-[Click here to Watch the video](https://drive.google.com/file/d/1IkXMdy0wsMt87r0W9Ae1P7TLg-owXXZB/view?usp=sharing)
+[Click here to Watch the video](https://)
 
 
 
