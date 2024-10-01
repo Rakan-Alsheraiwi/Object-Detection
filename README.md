@@ -1,15 +1,15 @@
 # Object Detection
 
-# Project Overview
+## Project Overview
 This project focuses on **Object Detection** using **YOLOv5**. It detects objects in both images and videos, drawing bounding boxes around detected objects and providing object counts. The project integrates a multilingual translation pipeline, translating the detected object labels from **English** to **Arabic**, supporting Arabic-speaking users. The solution is built using **Python** and libraries like **Torch**, **OpenCV**, **PIL**, **Gradio**, **Pandas**, and **Hugging Face Transformers**.
 
-# Features
+## Features
 1. **Image Object Detection**: Upload an image, and the model will detect objects, draw bounding boxes, and provide object counts in both **English** and **Arabic**.
 2. **Video Object Detection**: Upload a video, and the model processes each frame to detect objects, draw bounding boxes, and generate overall object counts.
 3. **Arabic Support**: Detected object labels are translated from **English** to **Arabic**, making the project accessible for Arabic-speaking users.
 4. **Interactive Interface**: A user-friendly interface built using **Gradio** allows easy interaction with both image and video detection models.
 
-# Expected Outputs
+## Expected Outputs
 1. **Image Input**:
 - The model returns: The original image with bounding boxes around detected objects.
 - A table showing object names and counts in both **English** and **Arabic**.
