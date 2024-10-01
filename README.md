@@ -18,7 +18,7 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 - A table showing overall object counts across the entire video in both **English** and **Arabic**.
 
 ## Model Choices
-1. **YOLOv5** for Object Detection**: 
+1. **YOLOv5** for Object Detection: 
 - **YOLOv5** (**You Only Look Once**) is a fast and accurate deep learning model for real-time object detection.
 -  We use the `yolov5s` model for this project, which balances speed and accuracy, making it suitable for processing both images and videos.
 **YOLOv5** on Hugging Face.
