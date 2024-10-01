@@ -13,7 +13,7 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 1. **Image Input**:
 - The model returns: The original image with bounding boxes around detected objects.
 - A table showing object names and counts in both **English** and **Arabic**.
-4. **Video Input**:
+2. **Video Input**:
 - The model returns: A processed video with bounding boxes around detected objects in each frame.
 - A table showing overall object counts across the entire video in both **English** and **Arabic**.
 
@@ -30,7 +30,7 @@ This project focuses on **Object Detection** using **YOLOv5**. It detects object
 
 ## Pipeline Explanation
 1. **Object Detection (YOLOv5)**: The input image or video is fed into the **YOLOv5** model, which outputs bounding boxes, class labels, and confidence scores for detected objects.
-2. **Bounding Box Drawing**:  Using **OpenCV** or **PIL**, bounding boxes are drawn around detected objects in the image or video frames.
+2. **Bounding Box Drawing**: Using **OpenCV** or **PIL**, bounding boxes are drawn around detected objects in the image or video frames.
 3. **Label Translation**:  Detected object labels are passed to the translation model, translating the English labels to Arabic.
 4. **Results Output**:  The modified image or video is displayed alongside a table of detected object counts in both **English** and **Arabic**.
 
